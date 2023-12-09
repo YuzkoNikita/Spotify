@@ -1,0 +1,155 @@
+@media (max-width: 1515px) {
+    .tap_bar, .tap_bar-text {
+        display: none;
+    }
+}
+
+@media (max-width: 1400px) {
+    #width-none_1400px {
+        display: none;
+    }
+}
+
+@media (max-width: 1290px) {
+    #width-none_1290px {
+        display: none;
+    }
+}
+
+@media (max-width: 1245px) {
+    #width-none_1245px {
+        display: none;
+    }
+
+    .main-recomendarion {
+        justify-content: center;
+    }
+
+    .main_player-menu {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+}
+
+@media (max-width: 1055px) {
+    #width-none_1055px {
+        display: none;
+    }
+
+    .main-recomendarion {
+        display: block;
+    }
+
+    .main-recomendarion-music {
+        justify-content: space-between;
+    }
+
+    .main-recomendarion-music-status {
+        font-size: 15px;
+    }
+
+    .main-recomendarion-music-name {
+        font-size: 38px;
+        line-height: normal;
+    }
+
+    .main-recomendarion-music-autor {
+        font-size: 16px;
+    }
+    
+    .main-recomendarion-sponsored-text {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 1115px) {
+    #width-none_1115px {
+        display: none;
+    }
+}
+
+@media (max-width: 965px) {
+    #width-none_965px {
+        display: none;
+    }
+
+    .main_player-menu-album-name {
+        display: none;
+    }
+
+    #Connect_to_a_device {
+        display: none;
+    }
+
+    #Random {
+        display: none;
+    }
+}
+
+@media (max-width: 912px) {
+    .main-nav-search {
+        display: none;
+    }
+}
+
+@media (max-width: 846px) {
+    #width-none_846px {
+        display: none;
+    }
+
+    .main_player-menu-volume-icon-circles {
+        display: flex;
+    }
+    
+    .main_player-menu-volume-icon-circle {
+        display: block;
+    }
+    
+    .main_player-menu-volume-icon {
+        display: none;
+    }
+
+    .main_player-menu-volume-icon-line {
+        display: none;
+    }
+
+    .main-recomendarion-music-status {
+        font-size: 12px;
+    }
+
+    .main-recomendarion-music-name {
+        font-size: 32px;
+        line-height: normal;
+    }
+
+    .main-recomendarion-music-autor {
+        font-size: 13px;
+    }
+    
+    .main-recomendarion-sponsored-text {
+        font-size: 9px;
+    }
+}
+
+@media (max-width: 800px) {
+    .main-recomendarion-music-status {
+        font-size: 10px;
+    }
+
+    .main-recomendarion-music-name {
+        font-size: 28px;
+        line-height: normal;
+    }
+
+    .main-recomendarion-music-autor {
+        font-size: 10px;
+    }
+
+    .main-recomendarion-music-photo {
+        display: none;
+    }
+
+    .main_player-menu-album-icon{
+        display: none;
+    }
+}
